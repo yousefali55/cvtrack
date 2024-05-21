@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "739770869744",
+    "project_id": "fluttercourse-1b584",
+    "storage_bucket": "fluttercourse-1b584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739770869744:android:c51f4a63af97a4c1ff9f35",
+        "android_client_info": {
+          "package_name": "com.example.appppchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNm6K1mF-4O8DNSRozP-RCh2kbgQYwRF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739770869744:android:18cd050caa80525aff9f35",
+        "android_client_info": {
+          "package_name": "com.example.cvtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNm6K1mF-4O8DNSRozP-RCh2kbgQYwRF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739770869744:android:fdf3d8ce025b8dc4ff9f35",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNm6K1mF-4O8DNSRozP-RCh2kbgQYwRF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
